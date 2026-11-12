@@ -53,7 +53,7 @@ https://carlosmojic.github.io/unite-web/
 **Organización:** UNITE  
 **Nombre completo:** Unión para la Integración, la Transformación y la Educación.  
 **Ubicación:** Santa Ana, El Salvador.  
-**Correo electrónico:** contacto@unite.org.sv
+**Correo electrónico:** unite16092000@gmail.com
 
 ## 📄 Licencia y naturaleza del proyecto
 
